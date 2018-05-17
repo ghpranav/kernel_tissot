@@ -20,7 +20,7 @@
 		android {
 			fstab {
 				vendor {
-					status = "disable";
+					status = "ok";
 				};
 			};
 		};
